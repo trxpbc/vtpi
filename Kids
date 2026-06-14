@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1077" group-title="Kids" tvg-logo="https://www.pngarts.com/files/8/Doraemon-Logo-PNG-Transparent-Image.png",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
+
+#EXTINF:-1 tvg-id="1077" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3X1oK2axCZHF8YndAECELXXQaBkkBKNmtqw&s",Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1077" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
