@@ -7,7 +7,7 @@
     {
         "name": "Zee Marathi HD",
         "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg",
-        "url": "https://servertvhub.site/zee5/playlist.php?id=0-9-zeemarathi"
+        "stream_url": "https://servertvhub.site/zee5/playlist.php?id=0-9-zeemarathi"
     },
     {
         "name": "Zee Telugu HD",
