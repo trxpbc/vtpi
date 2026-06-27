@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-id="476" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",Sony Max
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null:null
-#EXTVLCOPT:http-referrer=https://breotv.com/
-#EXTVLCOPT:http-origin=https://breotv.com/
+#EXTVLCOPT:http-referrer=https://playyonogames.in/
+#EXTVLCOPT:http-origin=https://playyonogames.in/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTHTTP:{"cookie":"null"}
-https://breotv.com/sliv/stream.m3u8?id=1000009249
+https://playyonogames.in/sliv/stream.m3u8?id=1000009249
 
 #EXTINF:-1 tvg-id="476" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
