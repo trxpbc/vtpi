@@ -1,0 +1,87 @@
+#EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sabhd.m3u8
+
+#EXTINF:-1 tvg-id="SET HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sethd.m3u8
+
+#EXTINF:-1 tvg-id="Sony Pal.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony Pal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonypalsd.m3u8
+
+#EXTINF:-1 tvg-id="Sony Wah.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",Sony WAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonywah.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",Sony MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonymaxsd.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX 2.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",Sony MAX2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/max2.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",Sony Sports Ten 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/ten1sd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports Ten 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",Sony Sports Ten 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/ten2sd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports Ten 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/ten2hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png",Sony Sports Ten 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/ten3sd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png",Sony Sports Ten 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png",Sony Sports Ten 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/ten4sd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png",Sony Sports Ten 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/ten4hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",Sony Sports Ten 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonysixsd.m3u8
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports Ten 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
+
+#EXTINF:-1 tvg-id="SONY YAY!.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
+
+#EXTINF:-1 tvg-id="SONY BBC Earth HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",Sony BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
+
+#EXTINF:-1 tvg-id="sony-pix-hd" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/pixhd.m3u8
+
+#EXTINF:-1 tvg-id="sony-marathi" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",Sony Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonymarathi.m3u8
+
+#EXTINF:-1 tvg-id="sony-aath" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png",Sony Aath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sliv.tgaadi.workers.dev/sonyaathsd.m3u8
