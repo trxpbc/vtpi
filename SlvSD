@@ -2,6 +2,13 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sliv.tgaadi.workers.dev/sabhd.m3u8
 
+#EXTINF:-1 tvg-id="154" group-title="Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony SAB SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba4d9b38517552de9654d3652d27933b:31e7cbf3d289d3116386457ed8bac3a2
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd
+
 #EXTINF:-1 tvg-id="SET HD.in" group-title="Sony Liv" group-logo="https://i.postimg.cc/KjmD7L5F/sonyliv.png" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://sliv.tgaadi.workers.dev/sethd.m3u8
