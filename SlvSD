@@ -428,7 +428,7 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000001971
 #EXTHTTP:{"cookie":"null"}
 https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="476" group-title="Sports SonyLIV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png",Sony Ten1 HD
+#EXTINF:-1 tvg-id="476" group-title="Sports SonyLIV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Ten1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null:null
 #EXTVLCOPT:http-referrer=https://premiumplugx.me/
